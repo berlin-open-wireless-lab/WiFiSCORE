@@ -1,0 +1,13 @@
+{
+    "uuid": "afb85a18-acb8-4bce-8962-e4fe5c9640b7",
+    "name": "Nexus 6P",
+    "categories": [
+        "Android",
+        "Smartphone/Tablet/PDA"
+    ],
+    "wifi_signature": "wifi4|probe:0,1,45,191,221(0050f2,4),221(506f9a,9),221(001018,2),htcap:006f,htagg:17,htmcs:0000ffff,vhtcap:0f815832,vhtrxmcs:0000fffa,vhttxmcs:0000fffa,wps:Nexus_6P|assoc:0,1,33,36,48,45,191,221(001018,2),221(0050f2,2),htcap:006f,htagg:17,htmcs:0000ffff,vhtcap:0f815832,vhtrxmcs:0000fffa,vhttxmcs:0000fffa,txpow:e00",
+    "mac_vendor": "HuaweiTe",
+    "created_at": "2017-06-29T14:32:04.269000Z",
+    "modified_at": "2017-07-18T12:53:52.856000Z",
+    "image_url": "afb85a18acb84bce8962e4fe5c9640b7/85beef9ac380562cd61ee8d36e4db6c0b37f47bb445791e6bb44384_dIC1O3R.jpg"
+}

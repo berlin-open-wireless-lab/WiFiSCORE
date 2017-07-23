@@ -1,0 +1,13 @@
+{
+    "uuid": "8727be8a-b315-401d-acc3-e247785316be",
+    "name": "Moto G4",
+    "categories": [
+        "Android",
+        "Smartphone/Tablet/PDA"
+    ],
+    "wifi_signature": "wifi4|probe:0,1,50,3,45,221(0050f2,8),127,htcap:016e,htagg:03,htmcs:000000ff,extcap:00000a0201|assoc:0,1,50,45,221(0050f2,2),htcap:012c,htagg:03,htmcs:000000ff",
+    "mac_vendor": "Motorola",
+    "created_at": "2017-06-29T14:28:53.981000Z",
+    "modified_at": "2017-07-18T12:53:59.191000Z",
+    "image_url": "8727be8ab315401dacc3e247785316be/6a025ccfe471d5f5bb60f9c56731b78a3e8f7898b072385f5d3fd58_YVBr0qP.jpg"
+}

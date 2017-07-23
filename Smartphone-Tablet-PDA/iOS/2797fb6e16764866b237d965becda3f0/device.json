@@ -1,0 +1,13 @@
+{
+    "uuid": "2797fb6e-1676-4866-b237-d965becda3f0",
+    "name": "iPhone 6s",
+    "categories": [
+        "iOS",
+        "Smartphone/Tablet/PDA"
+    ],
+    "wifi_signature": "wifi4|probe:0,1,45,127,107,191,221(0050f2,8),221(001018,2),htcap:006f,htagg:17,htmcs:0000ffff,vhtcap:0f815832,vhtrxmcs:0000fffa,vhttxmcs:0000fffa,extcap:0400088400000040assoc:0,1,33,36,48,70,45,127,191,221(001018,2),221(0050f2,2),htcap:006f,htagg:17,htmcs:0000ffff,vhtcap:0f815832,vhtrxmcs:0000fffa,vhttxmcs:0000fffa,txpow:e002,extcap:040000000000004",
+    "mac_vendor": "Apple",
+    "created_at": "2017-06-26T11:25:56.316000Z",
+    "modified_at": "2017-07-18T12:54:09.565000Z",
+    "image_url": "2797fb6e16764866b237d965becda3f0/ae7a717262a6ede46f70920c4efdf83180f7052e3706b6055b59854_0UlXyJS.png"
+}

@@ -1,0 +1,12 @@
+{
+    "uuid": "e2645306-e748-41f3-a249-5f227ccf63c5",
+    "name": "Intel Centrino Advanced-N 6235",
+    "categories": [
+        "PC"
+    ],
+    "wifi_signature": "wifi4|probe:0,1,50,45,htcap:107e,htagg:17,htmcs:0000ffff|assoc:0,1,50,45,127,221(0050f2,2),htcap:103c,htagg:17,htmcs:0000ffff,extcap:0000000000000040",
+    "mac_vendor": "IntelCor",
+    "created_at": "2017-07-12T13:03:41.184000Z",
+    "modified_at": "2017-07-18T12:53:45.363000Z",
+    "image_url": "e2645306e74841f3a2495f227ccf63c5/c8364728e727dce55fdda3da32b480fe0be2442def1bfcb21fdab96_6QkuTmQ.jpg"
+}

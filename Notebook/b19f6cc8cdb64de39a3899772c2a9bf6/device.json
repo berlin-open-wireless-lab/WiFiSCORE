@@ -1,0 +1,21 @@
+{
+    "uuid": "b19f6cc8-cdb6-4de3-9a38-99772c2a9bf6",
+    "name": "Lenovo X220",
+    "categories": [
+        "Notebook"
+    ],
+    "mac_vendor": "Lenovo",
+    "created_at": "2019-02-11T20:22:31Z",
+    "modified_at": "2019-02-11T20:22:33Z",
+    "image_url": "",
+    "signature_24": [
+        {
+            "wifi_signature": "wifi4|probe:0,1,50,45,htcap:107e,htagg:17,htmcs:0000ffff|assoc:0,1,50,48,45,127,221(0050f2,2),htcap:1076,htagg:17,htmcs:0000ffff,extcap:0000000000000040"
+        }
+    ],
+    "signature_5": [
+        {
+            "wifi_signature": "wifi4|probe:0,1,45,htcap:107e,htagg:17,htmcs:0000ffff|assoc:0,1,48,45,127,221(0050f2,2),htcap:1076,htagg:17,htmcs:0000ffff,extcap:0000000000000040"
+        }
+    ]
+}

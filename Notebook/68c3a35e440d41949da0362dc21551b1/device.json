@@ -1,0 +1,17 @@
+{
+    "uuid": "68c3a35e-440d-4194-9da0-362dc21551b1",
+    "name": "Aspire V13",
+    "categories": [
+        "Notebook"
+    ],
+    "mac_vendor": "Acer",
+    "created_at": "2019-02-11T20:31:22Z",
+    "modified_at": "2019-02-11T20:31:23Z",
+    "image_url": "",
+    "signature_24": [
+        {
+            "wifi_signature": "wifi4|probe:0,1,50,45,htcap:09e7,htagg:17,htmcs:0000ffff|assoc:0,1,45,48,50,127,127,221(0050f2,2),htcap:09a5,htagg:17,htmcs:0000ffff,extcap:0000000000000040"
+        }
+    ],
+    "signature_5": []
+}

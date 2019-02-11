@@ -1,0 +1,18 @@
+{
+    "uuid": "a092ab17-c6b6-4e27-b833-77aa7299b1e1",
+    "name": "Xiaomi Redmi Note 3 Pro",
+    "categories": [
+        "Android",
+        "Smartphone/Tablet/PDA"
+    ],
+    "mac_vendor": "Xiaomi",
+    "created_at": "2019-02-11T14:44:11Z",
+    "modified_at": "2019-02-11T14:44:12Z",
+    "image_url": "a092ab17c6b64e27b83377aa7299b1e1/53cbf08601f8e6a2169b9ae7d39f5b670dec3675bd963accae5246a80ab9772d.png",
+    "signature_24": [],
+    "signature_5": [
+        {
+            "wifi_signature": "wifi4|probe:0,1,45,221(0050f2,8),127,htcap:012c,htagg:03,htmcs:000000ff,extcap:00000a0201|assoc:0,1,48,45,221(0050f2,2),127,htcap:012c,htagg:03,htmcs:000000ff,extcap:00000a0201000000"
+        }
+    ]
+}
